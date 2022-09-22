@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 9a723fde93591ac46bcbaa75adf79d08
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark1
+    second: {fileID: 2100000, guid: c4ec6331bd01ae34ba14b1817c4e34ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasicShapeMaterial
+    second: {fileID: 2100000, guid: f9c42b2b4582e4748a26da2cb4b67468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Beach_Pebbles_udsicdffw_4K_Inst
+    second: {fileID: 2100000, guid: b1006e06275d81e4ab102d95b78b0137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_M_Roman_Statue_tfraegpda
+    second: {fileID: 2100000, guid: c18f714912979d947b4d0cf1e0427281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Black_Locust_wdvhberja
+    second: {fileID: 2100000, guid: f8cb8578d8496e44092a9938b10c30a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Damaged_Picture_Frame_ukpidjpaw
+    second: {fileID: 2100000, guid: 72828880da7fb3a49a70a93dadfc676d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Decorative_Picture_Frame_ukkocfnbw
+    second: {fileID: 2100000, guid: f00cb0c196b97054bbdea77d36d25d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Decorative_Picture_Frame_ukkpdhqbw
+    second: {fileID: 2100000, guid: a7b76ffc297437f4f9e941d4f4db95e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Decorative_Statuette_uffkcc1va
+    second: {fileID: 2100000, guid: 8ea41de8ff315a345b568c70fec26ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Decorative_Statuette_uffkfdeva
+    second: {fileID: 2100000, guid: 01a6029dedd95d543a8f46cb8fe0484d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FloorTriangles
+    second: {fileID: 2100000, guid: ff7f2a2ad27eee24080310c09ce753d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ivy2
+    second: {fileID: 2100000, guid: 2058ede0138d9af4ca2ee7452b301be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof
+    second: {fileID: 2100000, guid: b20ab72402c063b4e9f2505380a179f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ShigeruBan1
+    second: {fileID: 2100000, guid: 6ced451ee392acd41b625f5328ac3f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ShigeruBan2
+    second: {fileID: 2100000, guid: 584d43db45265d240b5ab5ac462bee17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ShigeruBan3
+    second: {fileID: 2100000, guid: ff29d5a777c6e5f43ac760df32c520b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_StonesMiddle
+    second: {fileID: 2100000, guid: fe246caa21b512b49bea0c6c125f9a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WS_Strip
+    second: {fileID: 2100000, guid: 7acc3acbc8d4c9b49b5b52ca9adb27d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WS_Wall
+    second: {fileID: 2100000, guid: 49a2465337fae034f935fd668d7f70c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WalkableSurface
+    second: {fileID: 2100000, guid: 34745c8c770b2ac419089c4a08de433d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Window
+    second: {fileID: 2100000, guid: bf2a2c17e0b230e4fbfd7e5aacb1b5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatNeon2
+    second: {fileID: 2100000, guid: 5ab81ee1d321d4348b021d8db6f5c25d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatSighBlack
+    second: {fileID: 2100000, guid: d1b56feaca27c5942844fdae7fd3e911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WalkableWall
+    second: {fileID: 2100000, guid: 8e12ef9aa8ac4ac43a2ec65fdb46d5b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: ace2b51603827234a8091483370bb117, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorSegment3Parts_lambert2_BaseColor
+    second: {fileID: 2800000, guid: 94db7573b72eabd449144e0133e04aa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorSegment3Parts_lambert2_Normal
+    second: {fileID: 2800000, guid: 9237a47a511398a43a0cd997ea9a604f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorSegment3Parts_lambert2_OcclusionRoughnessMetallic
+    second: {fileID: 2800000, guid: 2795d74c5ca432b42b4a20a3d1427ad4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GlassRoofV2_lambert1_BaseColor.1001
+    second: {fileID: 2800000, guid: 1cea0ee18159a214b8eb7c4e7cdfb5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GlassRoofV2_lambert1_OcclusionRoughnessMetallic.1001
+    second: {fileID: 2800000, guid: 90c2f48b4d4a1a84f9a3e5834bbcae07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBN1
+    second: {fileID: 2800000, guid: c90ad951d9b084e4ca2f2bed6b0fbf30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBN2
+    second: {fileID: 2800000, guid: 0f6bdd9f74e465846a5c3e2c4a98c294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBN3
+    second: {fileID: 2800000, guid: d6fb067b8e8d058419189458777ac239, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBORM1
+    second: {fileID: 2800000, guid: c5f8921e988d9344db98bff4aec4ba02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBORM2
+    second: {fileID: 2800000, guid: 43e7601c97873d64e855d3c13421a66d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SBORM3
+    second: {fileID: 2800000, guid: 6b0acce9650c23245b3713a25816be02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ShigeruBan_BaseColor_1003
+    second: {fileID: 2800000, guid: aa6960218924c924787dc0a1148f9761, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SimpleIvy_Ivy_leaf1_BaseColor
+    second: {fileID: 2800000, guid: 4d9876002fdef5942923c687e0956341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SimpleIvy_Ivy_leaf1_Normal
+    second: {fileID: 2800000, guid: 6ce8e768ea6834c4583547a592f9fb7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SimpleIvy_Ivy_leaf1_OcclusionRoughnessMetallic
+    second: {fileID: 2800000, guid: 9a036e7a7448bab4fa95e5646c040a3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SimpleIvy_Ivy_leaf1_Opacity
+    second: {fileID: 2800000, guid: d64ec14829b86bb479af7a1d7f084a2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneMiddle_V1_M_StonesMiddle_BaseColor
+    second: {fileID: 2800000, guid: 0e5fa0e4b3b30384d82ac23287aa5af2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneMiddle_V1_M_StonesMiddle_Metalness
+    second: {fileID: 2800000, guid: 77078fb24dd52134a9e9d167a6fd03bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneMiddle_V1_M_StonesMiddle_Normal
+    second: {fileID: 2800000, guid: 102c77b7c6c121e4b8b001f0d0c11dd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneMiddle_V1_M_StonesMiddle_Roughness
+    second: {fileID: 2800000, guid: bf19ab0f04aeb8944b74e011f2cfd56a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_BlackLocust_wdvhberja_2K_ART
+    second: {fileID: 2800000, guid: 55c9d544db9ca81469480b89c88f8363, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Black_Locust_wdvhberja_2K_D
+    second: {fileID: 2800000, guid: 50e3be8488913fd40b8af3571065a4d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Black_Locust_wdvhberja_2K_N
+    second: {fileID: 2800000, guid: e87c836e121b78b4ba6425137b14339d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_DamagedPictureFrame_ukpidjpaw_2K_DpR
+    second: {fileID: 2800000, guid: 56519a49b78050648ae76ba209ae2fca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Damaged_Picture_Frame_ukpidjpaw_2K_D
+    second: {fileID: 2800000, guid: cdde4dfb6433fdd42ae514709c87f10a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Damaged_Picture_Frame_ukpidjpaw_2K_N
+    second: {fileID: 2800000, guid: e044583434625774babd92bdcff280a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_DecorativePictureFrame_ukkocfnbw_2K_DpR
+    second: {fileID: 2800000, guid: 2a807d2a7aea3fe4d9acdfca01fce79d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_DecorativePictureFrame_ukkpdhqbw_2K_DpR
+    second: {fileID: 2800000, guid: fe74bf34c63a3984d8e8e8296bbbf466, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_DecorativeStatuette_uffkcc1va_2K_DpR
+    second: {fileID: 2800000, guid: 2e9452c0fe7e8994cb82d6ede98b1d6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_DecorativeStatuette_uffkfdeva_2K_DpR
+    second: {fileID: 2800000, guid: 8834758485f2a7a448e595b749965f5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Picture_Frame_ukkocfnbw_2K_D
+    second: {fileID: 2800000, guid: 60932878cc15e9a4a9ef78ca28e4b0d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Picture_Frame_ukkocfnbw_2K_N
+    second: {fileID: 2800000, guid: 58cdb720171fff94ba3246a9222e1c3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Picture_Frame_ukkpdhqbw_2K_D
+    second: {fileID: 2800000, guid: 38dbb416613bc8549855e474379254c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Picture_Frame_ukkpdhqbw_2K_N
+    second: {fileID: 2800000, guid: 905413c25ecbcc54cbea09bd3f7bc307, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Statuette_uffkcc1va_2K_D
+    second: {fileID: 2800000, guid: 9bab92c0467f4004697c5f56f7ce8e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Statuette_uffkcc1va_2K_N
+    second: {fileID: 2800000, guid: 8997e5fb40c85d446b41b37080c06303, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Statuette_uffkfdeva_2K_D
+    second: {fileID: 2800000, guid: 96b646612a5222443a887c0a93ea4c41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Decorative_Statuette_uffkfdeva_2K_N
+    second: {fileID: 2800000, guid: 8f74d24eb2251da4dae8d4cafc3b0703, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_RomanStatue_tfraegpda_2K_DpR
+    second: {fileID: 2800000, guid: b73e5561c9602ed4888b076204deb780, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Roman_Statue_tfraegpda_2K_D
+    second: {fileID: 2800000, guid: 86dc212f20ef5f64a88c29bde32a1130, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Roman_Statue_tfraegpda_2K_N
+    second: {fileID: 2800000, guid: c5e7bfe8ee5e1914681ac44b5279ffaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_AORM
+    second: {fileID: 2800000, guid: 171d7fa6d3211dc45a3dbbcad04531ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_BC
+    second: {fileID: 2800000, guid: 35bf8a0f2fb31ea4c87a48c7ab0b617d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_Normal
+    second: {fileID: 2800000, guid: df04d6dfae3995f44bf6306ce7dfe23f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_S_AORM
+    second: {fileID: 2800000, guid: 17741d2d951dcd5428fe7c6b9174bb4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_S_BC
+    second: {fileID: 2800000, guid: 716f9c5504f0ebc4ab2bd723e29a8c37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_S_Normal
+    second: {fileID: 2800000, guid: d014212777c3ac44eafd3fb55e7ae084, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_Wall_AORM
+    second: {fileID: 2800000, guid: bb22fe6a610fac44c9369d9bf21690a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_Wall_BC
+    second: {fileID: 2800000, guid: b9bb2f53c2d258844a92ebed511811a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WS_Wall_Normal
+    second: {fileID: 2800000, guid: e5df1ecbab39260488381cda03c0f65d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_lambert1_BaseColor
+    second: {fileID: 2800000, guid: b05f609ef6acdf64c9854b5a1eb6a385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_lambert1_Emissive
+    second: {fileID: 2800000, guid: b05950c971bf9db4ea6377ffd3e2dd5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_lambert1_Normal
+    second: {fileID: 2800000, guid: 8bc6749925009364bb4b41d75a106c26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_lambert1_OcclusionRoughnessMetallic
+    second: {fileID: 2800000, guid: 2e0a0a20ffde3af489ac87d6ef0ad724, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bc1
+    second: {fileID: 2800000, guid: 56d11a722c2c05248a310cc9309fd0c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bc2
+    second: {fileID: 2800000, guid: ddfedc6592dd56b41b96c74066f27644, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
